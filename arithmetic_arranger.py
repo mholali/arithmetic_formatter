@@ -1,3 +1,4 @@
+# date: 27/04/2021
 # This function receives a list of strings that are arithmetic problems 
 # and returns the problems arranged vertically and side-by-side. The function 
 # optionally takes a second argument. When the second argument is set to True, 
